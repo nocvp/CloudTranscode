@@ -1,5 +1,5 @@
 {
-    "name": "noc-med/cloud-transcode",
+    "name": "nocvp/cloud-transcode",
     "require": {
         "aws/aws-sdk-php": "2.*",
         "justinrainbow/json-schema": "1.3.*",
